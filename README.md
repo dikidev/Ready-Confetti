@@ -1,5 +1,10 @@
-# Ready-Confetti
+# [Ready Confetti Wedding Repo](https://ready-cofetti-wedding-planner.netlify.app/)
+
+### Ready-Confetti
 HTML, CSS &amp; JavaScript Responsive Wedding Wedsite
+
+ [Checkout Live Website Here](https://ready-cofetti-wedding-planner.netlify.app/)
+
 
 
 ### Sitemap
